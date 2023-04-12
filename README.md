@@ -24,7 +24,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 The final version is available on github at:
 
-https://github.com/rhwette/se_project_react.git
+https://github.com/rhwette/React-Main.git
 
 The public version may be viewed at:
-https://rhwette.github.io/se_project_react/
+
+https://rhwette.github.io/se_project_react
